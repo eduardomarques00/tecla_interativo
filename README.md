@@ -1,6 +1,6 @@
 # tecla_interativo
 
-![preview](/aluramidi-curso-arquivos-iniciais/aluramidi-curso-arquivos-iniciais/tecla_interativo/preview.png)
+![preview](/preview.png)
 
 Projeto construido no curso de javaScript do Alura.
 
